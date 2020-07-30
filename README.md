@@ -1,18 +1,17 @@
 ### Yungon Park
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubysoho07/)](https://www.linkedin.com/in/rubysoho07/)
 
+#### Introduction
 
-<!--
-**rubysoho07/rubysoho07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Data infrastructure & DevOps engineer of i-Scream Edu
 
-Here are some ideas to get you started:
+#### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming Language: Python, C, Golang
+* Cloud Computing (AWS) 
+* Data Engineering & DevOps
+* Punk rock(Especially Green Day, Rancid, ...), rock festivals
+* K League & [Daegu FC](https://daegufc.co.kr)
+
+My GitHub username is named after [this song](https://youtu.be/0P9QMkm9Eew). (Not Ruby - a programming language! 😅)
