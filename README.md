@@ -11,9 +11,10 @@
 * Programming Language: Python, C, Golang
 * Cloud Computing (AWS) 
 * Data Engineering & DevOps
-* Punk rock(Especially Green Day, Rancid, ...), rock festivals
+* My favorite bands(Green Day, Rancid, Oasis, Arcade Fire, Belle And Sebastian, ...) and rock festivals
 * K League & Daegu FC
 
-My GitHub username is named after [this song](https://youtu.be/0P9QMkm9Eew). (Not Ruby - a programming language! 😅)
+#### Trivia
 
-Profile Picture from [The Inspector Cluzo @ Pentaport Festival, Incheon South Korea - Put Your Hands Up](https://youtu.be/uY9SDCMpuhs?t=485).
+* My GitHub username is named after [this song](https://youtu.be/0P9QMkm9Eew). (Not Ruby - a programming language! 😅)
+* Profile Picture from [this video](https://youtu.be/uY9SDCMpuhs?t=485).
