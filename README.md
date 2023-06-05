@@ -4,7 +4,7 @@
 
 #### Introduction
 
-* DevOps engineer of Sixshop
+* ...
 
 #### Interests
 
