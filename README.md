@@ -1,7 +1,5 @@
 ### Yungon Park
 
-[LinkedIn](https://www.linkedin.com/in/rubysoho07/)
-
 #### Introduction
 
 * Infrastructure Engineer of Imweb
