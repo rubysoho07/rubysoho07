@@ -1,6 +1,6 @@
 ### Yungon Park
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubysoho07/)](https://www.linkedin.com/in/rubysoho07/)
+[LinkedIn](https://www.linkedin.com/in/rubysoho07/)
 
 #### Introduction
 
